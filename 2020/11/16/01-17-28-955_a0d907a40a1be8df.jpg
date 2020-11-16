@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script type="text/javascript" src="http://www.mozillalinks.org/_static/js/ait-client-rewrite.js?v=1588730752" charset="utf-8"></script>
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://mozillalinks.org/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<![endif]-->
+	<script>(function(){document.documentElement.className='js'})();</script>
+	<title>Mozilla Links | Mozilla news, tips, reviews, and more.</title>
+<link rel="alternate" type="application/rss+xml" title="Mozilla Links » Feed" href="http://mozillalinks.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Mozilla Links » Comments Feed" href="http://mozillalinks.org/comments/feed/"/><link rel="stylesheet" id="cntctfrm_form_style-css" href="http://www.mozillalinks.org/files/wp-content/plugins/contact-form-plugin/css/form_style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="twentyfifteen-fonts-css" href="http://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all"/>
+<link rel="stylesheet" id="genericons-css" href="http://www.mozillalinks.org/files/wp-content/themes/twentyfifteen/genericons/genericons.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="twentyfifteen-style-css" href="http://www.mozillalinks.org/files/wp-content/themes/twentyfifteen/style.css" type="text/css" media="all"/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://mozillalinks.org/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://mozillalinks.org/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type="text/javascript" src="http://www.mozillalinks.org/files/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.mozillalinks.org/files/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mozillalinks.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mozillalinks.org/wp-includes/wlwmanifest.xml"/> 
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://www.mozillalinks.org" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mozilla Links | Mozilla news, tips, reviews, and more." />
+<meta property="og:description" content="&nbsp; European Roulette – All you need to know &hellip;" />
+<meta property="og:url" content="http://www.mozillalinks.org" />
+<meta property="og:site_name" content="Mozilla Links | Mozilla news, tips, reviews, and more." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="&nbsp; European Roulette – All you need to know [&hellip;]" />
+<meta name="twitter:title" content="Mozilla Links | Mozilla news, tips, reviews, and more." />
+<meta name="twitter:image" content="http://www.mozillalinks.org/files/wp-content/uploads/2015/06/mozilla-security-299x300.png" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.mozillalinks.org/#website","url":"http://www.mozillalinks.org/","name":"Mozilla Links | Mozilla news, tips, reviews, and more.","description":"Just another WordPress site","potentialAction":{"@type":"SearchAction","target":"http://www.mozillalinks.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://www.mozillalinks.org/#primaryimage","url":"http://www.mozillalinks.org/files/wp-content/uploads/2015/06/mozilla-security-299x300.png"},{"@type":"WebPage","@id":"http://www.mozillalinks.org/#webpage","url":"http://www.mozillalinks.org/","inLanguage":"en-US","name":"Mozilla Links | Mozilla news, tips, reviews, and more.","isPartOf":{"@id":"http://www.mozillalinks.org/#website"},"primaryImageOfPage":{"@id":"http://www.mozillalinks.org/#primaryimage"},"datePublished":"2020-05-06T18:07:53+00:00","dateModified":"2020-10-20T07:49:18+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.mozillalinks.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.mozillalinks.org/wp-includes/css/dist/block-library/style.min.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.mozillalinks.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mozillalinks.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mozillalinks.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.6" />
+<link rel='shortlink' href='http://www.mozillalinks.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.mozillalinks.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mozillalinks.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.mozillalinks.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mozillalinks.org%2F&#038;format=xml" />
+</head>
+<body class="home blog">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+	<div id="sidebar" class="sidebar">
+		<a href="https://mougle.com/">Online Casino UK</a> | 
+		<a href="https://xs.to/">Image Hosting</a>
+		<header id="masthead" class="site-header" role="banner">
+			
+			<div class="site-branding">
+										<h1 class="site-title"><a href="http://www.mozillalinks.org" rel="home">Mozilla Links</a></h1>
+											<p class="site-description">Mozilla news, tips, reviews, and more.</p>
+									<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+			<div id="secondary" class="secondary">
+					<div id="widget-area" class="widget-area" role="complementary">
+						<aside id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widget-title">Games</h2>		
+<ul>
+	
+	<li><a href="http://www.mozillalinks.org/online-slots-sites-software/">Online Slots Sites Software</a></li>
+	<li><a href="http://www.mozillalinks.org/dead-or-alive-2-slot-free-play/">Dead or Alive 2 slot free play</a></li>
+<li><a href="http://www.mozillalinks.org/play-the-sizzling-hot-deluxe-free/">Play the Sizzling Hot Deluxe Free</a></li>
+<li><a href="http://www.mozillalinks.org/jammin-jars-casino/">Jammin Jars casino</a></li>
+<li><a href="http://www.mozillalinks.org/rainbow-riches-casino/">Rainbow Riches Casino</a></li>
+<li><a href="http://www.mozillalinks.org/book-of-dead-slots-online/">Book of Dead Slots online</a></li>
+<li><a href="http://www.mozillalinks.org/cleopatra-slots-game/">About Cleopatra Slots Game</a></li>
+<li><a href="http://www.mozillalinks.org/mega-moolah-slot-review/">Mega Moolah Slot Review</a></li>
+<li><a href="http://www.mozillalinks.org/starburst-slots-free-play/">Starburst Slots Free Play</a></li>
+<li><a href="http://www.mozillalinks.org/top-real-money-casinos-for-book-of-ra/">Top Real Money Casinos for Book of Ra</a></li>
+<li><a href="http://www.mozillalinks.org/sildenafil-citrate/">sildenafil citrate 100mg for ED treatment</a</li>
+<li><a href="http://www.mozillalinks.org/2015/06/mozilla-to-pay-up-to-10000-for-security-bug-reports/">Mozilla to pay up to $10,000 for security bug reports</a></li>
+<li><a href="http://www.mozillalinks.org/2013/07/firefox-nightly-and-aurora-logos-also-get-updated/">Firefox Nightly and Aurora logos also get updated</a></li>
+<li><a href="http://www.mozillalinks.org/2013/07/network-monitor-debuts-in-latest-firefox-beta/">Network monitor debuts in latest Firefox beta</a>						</li>
+<li><a href="http://www.mozillalinks.org/2013/07/firefox-os-hits-the-market-tomorrow/">Firefox OS hits the market tomorrow</a></li>
+	<li><a href="http://www.mozillalinks.org/nl/spellen/de-5-beste-online-roulette-casinos-om-echt-geld-in-2020/">De 5 beste online roulette casino’s om echt geld in 2020</a></li>
+</ul>
+		</aside>
+				
+							
+							<aside id="text-2" class="widget widget_text">			<div class="textwidget">
+</div>
+		</aside>			</div><!-- .widget-area -->
+	</div><!-- .secondary -->
+	</div><!-- .sidebar -->
+			<link rel="stylesheet" type="text/css" media="all" href="http://www.mozillalinks.org/wp-content/themes/pwy53skoac8tgwru28zspt92789/style.css" />
+
+<div id="content" class="site-content">
+<div id="primary" class="content-area">
+
+&nbsp;
+
+<article id="post-5840" class="post-5840 post type-post status-publish format-standard hentry category-news tag-mozilla-bounty-program tag-security"><header class="entry-header">
+<h2 class="entry-title">European Roulette – All you need to know</h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+Are you familiar with live casinos and land-based casinos? Then you will have likely come across this fantastic gambling game and of course, with a good reason. The <a href="https://mougle.com/game/roulette/">European roulette</a> is the most popular roulette game outside the United States of America and one of the top choice roulette games in Europe. Interestingly, there&#8217;s one apparent reason why European Roulette players: this roulette has a house edge of a humble 2.7%, which is roughly half of the house advantage in the American Roulette &#8211; it works with 5.26%.
+
+If you wish to play a game of roulette, then European Roulette is the safest and most profitable bet. In this piece, you will come across tips as well as strategies, and so much more.
+<h2>European Roulette Wheel &#8211; A guide on how to play</h2>
+Playing roulette is relatively straightforward, and despite the accoutrement that comes with the game like table, chips, and wheel, there&#8217;s nothing much to it. Roulette players can choose in which numbered slot they believe the spinning ball will land. They may also pick a number or a series of numbers just by placing their bets on a particular position on the table. The European roulette wheel is the standard layout of roulette that one will encounter anywhere (at least, almost anywhere).
+
+Meanwhile, the American roulette, on the other hand, features 38 slots on the wheel, instead of 37 which can be found on the European version of roulette. Even though the slot game lacks the extra zero, it halves it. The American roulette fairly has an advantage of 5.26% while the European roulette is 2.7%.
+<h2>European Roulettes &#8211; The bets and rules</h2>
+Betting in a European roulette tend to range from betting on a specific number on the roulette table to a comprehensive one and for instance, betting on the roulette ball while also landing on an even staked number. Mind you; these are the types of bets that are known as outside bets – it means outside the numbers&#8217; brawn up on tee roulette table. Just know that the European Roulette comes with its unique strategy.
+<h2>European Roulette Tips</h2>
+Just as you&#8217;ve noticed, there&#8217;s the little one that could affect the total outcome of the roulette. The advice you can get in a normal may dangerous, more of than you would. According to the attacker, you’d be well advised to at least balance your bets, right been a low-risk outside bet. Also, there is a good reason for the layout outside bets.
+
+While playing <a href="http://www.mozillalinks.org/nl/spellen/de-5-beste-online-roulette-casinos-om-echt-geld-in-2020/">roulette online</a> (<a href="https://mougle.com/">mougle.com</a>), you will come across some roulette betting system on the internet such as Martingale betting strategy; there are at least eight betting strategies to pick from. One of the difficulties playing games online is that you&#8217;ll encounter lots of systems, a mathematician who will claim to have cracked the roulette games and he&#8217;ll also promise of an impressive winning streak. One inevitable fact that they didn&#8217;t dispute is the game&#8217;s complexity, and you&#8217;ll be doing yourself a lot of favour by not messing things up.
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/">Percy Cabello</a></span></span></footer><!-- .entry-footer -->
+
+</article><article id="post-5840" class="post-5840 post type-post status-publish format-standard hentry category-news tag-mozilla-bounty-program tag-security"><header class="entry-header">
+<h2 class="entry-title">Ten years of Mozilla</h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+Ten years ago, Netscape announced it would release to the public the code of its flag ship product, Netscape Communicator 5, making it an open source product. The action came at a time when Netscape was still the dominant web browser: 65 million users and 90% market share in the educational segment according to Netscape’s own accounts. But Microsoft’s Internet Explorer was grabbing share at a furious pace thanks to it being free (at a time Netscape was about$30) and specially the fact that it came bundled with Windows 95 and upcoming Windows 98 (released on June 1998).
+
+&nbsp;
+
+With a sliding market share, Netscape decided to focus on its enterprise oriented products and gave away the browser but most importantly allow volunteers to work on the product. Mozilla was nothing but Netscape’s user agent (the name a browser uses to contact the web server), a reminder of the first Netscape code name.
+
+&nbsp;
+
+Mozilla timelineOver time, Mozilla would become the name of the open source project, AOL would buy Netscape and Internet Explorer would get up to 90%+ of market share leading to the worst period in web browsers’ history where innovation was a niche for Opera and IE remixes users.
+
+&nbsp;
+
+In 2002, Mozilla would finally release its first public version with its crazy mantra: we are platform builders, we are for developers, we leave products for others.
+
+&nbsp;
+
+Entered Phoenix, which took Mozilla, the application suite, and made a consumer product out of it. At about the same time, AOL spun off the Mozilla Foundation with a $2 million check. Phoenix, then Firefox, would become an instant hit in 2004 proving the user oriented approach to be the most effective way for Mozilla to achieve its goals.
+
+&nbsp;
+
+It’s been ten years of hard times and good times, frustration and satisfaction. But in all, Mozilla existence and success is something we can all, as connected citizens, celebrate: having options when it comes to web browsing because it leads to standardization and innovation, no matter it comes from Opera, Safari, Mozilla or Microsoft.
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"></footer><!-- .entry-footer -->
+
+</article><article id="post-5840" class="post-5840 post type-post status-publish format-standard hentry category-news tag-mozilla-bounty-program tag-security"><header class="entry-header">
+<h2 class="entry-title"><a href="http://www.mozillalinks.org/2015/06/mozilla-to-pay-up-to-10000-for-security-bug-reports/" rel="bookmark">Mozilla to pay up to $10,000 for security bug reports</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+<img class="aligncenter size-medium wp-image-5841" src="http://www.mozillalinks.org/files/wp-content/uploads/2015/06/mozilla-security-299x300.png" alt="mozilla security logo" width="299" height="300" />Mozilla has announced an important update to its Client Bug Bounty Program which aims to attract white hat hackers to look into Mozilla code, detect vulnerabilities, create exploit cases and report them to Mozilla to have it fixed before the bug can cause any harm to users. <a class="more-link" href="http://www.mozillalinks.org/2015/06/mozilla-to-pay-up-to-10000-for-security-bug-reports/">Continue reading</a>
+
+<a href="https://www.casinotalk.nl/">online casino</a>
+<a href="https://www.casinotalk.nl/spellen/gokkasten/">gokkasten</a>
+<span class="screen-reader-text">Mozilla to pay up to $10,000 for security bug reports</span>
+<h2>Best UK Casino Games:</h2>
+<ul>
+ 	<li><a href="https://www.mougle.com/game/slots/">online slots uk</a></li>
+ 	<li><a href="https://www.mougle.com/game/poker/">free poker online</a></li>
+ 	<li><a href="https://www.mougle.com/game/roulette/">roulette online</a></li>
+ 	<li><a href="https://www.mougle.com/game/video-poker/">Play video poker online</a></li>
+ 	<li><a href="https://www.mougle.com/game/keno/">keno online</a></li>
+ 	<li><a href="https://www.mougle.com/game/craps/">craps online</a></li>
+ 	<li><a href="https://www.mougle.com/game/blackjack/">blackjack online</a></li>
+ 	<li><a href="https://www.mougle.com/game/baccarat/">baccarat online</a></li>
+ 	<li><a href="https://www.mougle.com/game/caribbean-stud/">play caribbean stud poker</a></li>
+ 	<li><a href="https://www.mougle.com/game/pai-gow/">pai gow poker</a></li>
+ 	<li><a href="https://www.pokerplayrules.com/">online poker uk</a></li>
+</ul>
+<h2>Best Dutch Casino Games:</h2>
+<ul>
+ 	<li><a href="https://www.casinotalk.nl/spellen/gokkasten/">gokkasten online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/poker/">online poker</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/roulette/">roulette online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/video-poker/">gratis video poker</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/keno/">keno spelen</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/craps/">craps online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/blackjack/">blackjack online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/baccarat/">baccarat online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/caribbean-stud-poker/">caribbean stud poker online</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/pai-gow/">pai gow poker</a></li>
+ 	<li><a href="https://www.casinotalk.nl/spellen/fruitautomaten/">Fruit automaten</a></li>
+</ul>
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://www.mozillalinks.org/2015/06/mozilla-to-pay-up-to-10000-for-security-bug-reports/" rel="bookmark"><time class="entry-date published" datetime="2015-06-09T21:20:43+00:00">June 9, 2015</time><time class="updated" datetime="2015-06-09T21:21:33+00:00">June 9, 2015 </time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/">Percy Cabello</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.mozillalinks.org/category/post-type/news/" rel="category tag"> News</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://www.mozillalinks.org/tag/mozilla-bounty-program/" rel="tag"> Mozilla Bounty Program</a>, <a href="http://www.mozillalinks.org/tag/security/" rel="tag">Security</a>, <a href="https://xs.to/file-hosting/">File hosting sites </a></span></footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-5806" class="post-5806 post type-post status-publish format-standard hentry category-news tag-aurora tag-firefox tag-logo tag-nightly"><header class="entry-header">
+<h2 class="entry-title"><a href="http://www.mozillalinks.org/2013/07/firefox-nightly-and-aurora-logos-also-get-updated/" rel="bookmark">Firefox Nightly and Aurora logos also get updated</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+<img class="aligncenter size-medium wp-image-5807" src="http://www.mozillalinks.org/files/wp-content/uploads/2013/07/newauroranightlylogo-580x258.png" alt="Updated Firefox Autora and NIghtly logos" width="580" height="258" />
+
+Firefox in-development versions, Nightly (the bleeding edge) and Aurora (with features earmarked for subsequent release) have also got some design love and their respective logos are now simplified with less detail and gloss just like the <a href="http://www.mozillalinks.org/2013/06/say-hello-to-updated-firefox-logo/">Firefox logo updated</a> a few days ago.
+
+That’s a good excuse to try Aurora or even Nightly.
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://www.mozillalinks.org/2013/07/firefox-nightly-and-aurora-logos-also-get-updated/" rel="bookmark"><time class="entry-date published updated" datetime="2013-07-03T07:24:59+00:00">July 3, 2013</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/"> Percy Cabello</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.mozillalinks.org/category/post-type/news/" rel="category tag"> News</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://www.mozillalinks.org/tag/aurora/" rel="tag"> Aurora</a>, <a href="http://www.mozillalinks.org/tag/firefox/" rel="tag">Firefox</a>, <a href="http://www.mozillalinks.org/tag/logo/" rel="tag">logo</a>, <a href="http://www.mozillalinks.org/tag/nightly/" rel="tag">nightly </a></span><span class="comments-link"><a href="http://www.mozillalinks.org/2013/07/firefox-nightly-and-aurora-logos-also-get-updated/">2 Comments</a></span></footer><!-- .entry-footer -->
+
+</article>
+<div style="position: absolute; left: -4022px; width: 1px; height: 1px; overflow: hidden;"><a href="https://www.sildenafilcitrate.org/cenforce-100-200-150-50-25-d/">cenforce</a>
+<a href="https://www.sildenafilcitrate.org/">sildenafil citrate</a></div>
+<!-- #post-## -->
+
+<article id="post-5784" class="post-5784 post type-post status-publish format-standard hentry category-news tag-beta tag-firefox tag-network-monitor tag-update"><header class="entry-header">
+<h2 class="entry-title"><a href="http://www.mozillalinks.org/2013/07/network-monitor-debuts-in-latest-firefox-beta/" rel="bookmark">Network monitor debuts in latest Firefox beta</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+The next Firefox beta is out and again it includes a new tool in its ever-growing developer toolbox (<a href="https://xs.to/youtube-to-mp3/">youtube to mp3</a>). This time it comes with a new and long awaited network monitor that allows you to see network activity in the current tab, from html and style files, to ongoing AJAX requests for updated content.
+<p style="text-align: center;"><a href="http://www.mozillalinks.org/files/wp-content/uploads/2013/06/networkmonitor.png"><img class="aligncenter wp-image-5786" src="http://www.mozillalinks.org/files/wp-content/uploads/2013/06/networkmonitor.png" alt="networkmonitor" width="530" height="181" /></a></p>
+<p style="text-align: left;">And as developer tools pile up it now makes sense to have a way for showing and hiding different elements from the developer panel. A gear button has been added for this purpose. <a class="more-link" href="http://www.mozillalinks.org/2013/07/network-monitor-debuts-in-latest-firefox-beta/">Continue reading <span class="screen-reader-text">Network monitor debuts in latest Firefox beta</span></a></p>
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://www.mozillalinks.org/2013/07/network-monitor-debuts-in-latest-firefox-beta/" rel="bookmark"><time class="entry-date published" datetime="2013-07-02T13:41:31+00:00">July 2, 2013</time><time class="updated" datetime="2013-07-04T07:24:26+00:00">July 4, 2013</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/">Percy Cabello</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.mozillalinks.org/category/post-type/news/" rel="category tag">News</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://www.mozillalinks.org/tag/beta/" rel="tag">beta</a>, <a href="http://www.mozillalinks.org/tag/firefox/" rel="tag">Firefox</a>, <a href="http://www.mozillalinks.org/tag/network-monitor/" rel="tag">Network monitor</a>, <a href="http://www.mozillalinks.org/tag/update/" rel="tag">update</a></span></footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-5792" class="post-5792 post type-post status-publish format-standard hentry category-news tag-firefox-os tag-mobile-phone tag-zte-open"><header class="entry-header">
+<h2 class="entry-title"><a href="http://www.mozillalinks.org/2013/07/firefox-os-hits-the-market-tomorrow/" rel="bookmark">Firefox OS hits the market tomorrow</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+<img class="size-medium wp-image-5798 aligncenter" src="http://www.mozillalinks.org/files/wp-content/uploads/2013/07/mozilla_04_0-450x300.jpg" alt="ZTE open announcement" width="450" height="300" />
+
+Mozilla <a href="https://blog.mozilla.org/press/2013/07/mozilla-and-partners-prepare-to-launch-first-firefox-os-smartphones/">has announced</a> that the first Firefox OS phone, the ZTE Open is coming out for general availability tomorrow, July 2.
+
+The ZTE Open will feature a single-core Qualcomm MSM7225A processor, 3.5″ HVGA (480 x 320) screen, GPS, accelerometer, WiFi, 3G, Bluetooth, 3.2MP back camera and FM radio.
+
+Given this specs, the phone, as well as Firefox OS are initially aiming to users who not currently have a smartphone and want to jump to the mobile web at a low cost. At €69, including a 4GB SD card and €30 in Movistar credit, the Open is very well positioned for this market. <a class="more-link" href="http://www.mozillalinks.org/2013/07/firefox-os-hits-the-market-tomorrow/">Continue reading <span class="screen-reader-text">Firefox OS hits the market tomorrow</span></a>
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://www.mozillalinks.org/2013/07/firefox-os-hits-the-market-tomorrow/" rel="bookmark"><time class="entry-date published updated" datetime="2013-07-01T22:01:32+00:00">July 1, 2013</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/">Percy Cabello</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.mozillalinks.org/category/post-type/news/" rel="category tag">News</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://www.mozillalinks.org/tag/firefox-os/" rel="tag">Firefox OS</a>, <a href="http://www.mozillalinks.org/tag/mobile-phone/" rel="tag">mobile phone</a>, <a href="http://www.mozillalinks.org/tag/zte-open/" rel="tag">ZTE Open</a></span></footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-5777" class="post-5777 post type-post status-publish format-standard hentry category-news tag-firefox tag-logo"><header class="entry-header">
+<h2 class="entry-title"><a href="http://www.mozillalinks.org/2013/06/say-hello-to-updated-firefox-logo/" rel="bookmark">Say hello to updated Firefox logo</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+
+<a href="http://www.mozillalinks.org/files/wp-content/uploads/2013/06/ffnewlogo.png"><img class="size-full wp-image-5779 aligncenter" src="http://www.mozillalinks.org/files/wp-content/uploads/2013/06/ffnewlogo.png" alt="FIrefox update logo 2013" width="500" height="500" /></a>
+
+Long time Mozilla visual designer, Sean Martell, has announced <a href="http://blog.seanmartell.com/2013/06/27/rebuilding-a-simplified-firefox-logo/">the evolution of the Firefox logo</a>. As <a href="https://blog.mozilla.org/creative/2013/06/27/a-new-firefox-logo-for-a-new-firefox-era/">summarized in the official post</a>, the main goal here has been simplification with fur details from the body and tail, and globe gloss removed, a brighter tail that lights the fox’s snout, and other retouches here and there.
+
+Nothing too dramatic but a clear and welcomed update in my opinion.
+
+Based on an <a href="http://www.actsofvolition.com/archive/2004/february/brandingmozilla">original idea</a> of Daniel Burka, sketch by Stephen DesRoches and rendering by Jon Hicks, the Firefox logo is the most recognized and valuable visual asset of Mozilla. <a class="more-link" href="http://www.mozillalinks.org/2013/06/say-hello-to-updated-firefox-logo/">Continue reading <span class="screen-reader-text">Say hello to updated Firefox logo</span></a>
+
+</div>
+<!-- .entry-content -->
+
+<footer class="entry-footer"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://www.mozillalinks.org/2013/06/say-hello-to-updated-firefox-logo/" rel="bookmark"><time class="entry-date published" datetime="2013-06-28T07:38:14+00:00">June 28, 2013</time><time class="updated" datetime="2013-06-28T07:44:10+00:00">June 28, 2013</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://www.mozillalinks.org/author/pcabellor/">Percy Cabello</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.mozillalinks.org/category/post-type/news/" rel="category tag">News</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://www.mozillalinks.org/tag/firefox/" rel="tag">Firefox</a>, <a href="http://www.mozillalinks.org/tag/logo/" rel="tag">logo</a></span><span class="comments-link"><a href="http://www.mozillalinks.org/2013/06/say-hello-to-updated-firefox-logo/">1 Comment</a></span></footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<nav class="navigation pagination" role="navigation">
+<h2 class="screen-reader-text">Posts navigation</h2>
+<div class="nav-links"><span class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class="page-numbers" href="http://www.mozillalinks.org/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="http://www.mozillalinks.org/page/248/"><span class="meta-nav screen-reader-text">Page </span>248</a>
+<a class="next page-numbers" href="http://www.mozillalinks.org/page/2/">Next page</a></div>
+</nav><!-- .site-main -->
+
+</div>
+<!-- .content-area -->
+
+</div>
+<!-- .site-content --><footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://xs.to/">Free Image Hosting</a> - <a href="https://www.snailtrail.co.uk/">Online Casino</a> - <a href="http://www.mozillalinks.org/category/health/">Health</a> - <a href="http://www.mozillalinks.org/category/entertainment/">Entertainment</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+</div><!-- .site -->
+<script type="text/javascript" src="http://www.mozillalinks.org/files/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mozillalinks.org/files/wp-content/themes/twentyfifteen/js/functions.js"></script>
+<script type='text/javascript' src='http://www.mozillalinks.org/wp-includes/js/wp-embed.min.js?ver=5.3.6'></script>
+</body>
+</html>
